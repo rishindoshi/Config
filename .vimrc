@@ -72,3 +72,15 @@ nnoremap E $
 
 noremap J 15j
 noremap K 15k
+
+let g:airline_theme='lucius'
+let g:seoul256_background=236
+colo seoul256
+
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set textwidth=79
+set expandtab
+set autoindent
+set fileformat=unix
